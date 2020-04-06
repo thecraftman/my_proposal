@@ -86,6 +86,44 @@ This would enable applicants to manage resources effectively, they can also coll
 4.  Comments and Issues
 Maintainers, reviewers will be able to ask questions, this will be in form of a Pull request comment on the file/repository on CHAOSS Badging. They will also get feedback based on each activity and request for more context if need be.  
 
+## Approach
+
+### Workflow Automation using Crowdin & Github  (https://support.crowdin.com/github-integration/#connecting-github-with-crowdin)
+The platform that is currently used for CHAOSS Badging is github, Integration with GitHub makes source and translation files synchronized with GitHub repository and Crowdin translation project. All translated and approved files will be automatically pushed as a pull request to the master branch in GitHub repository.
+
+Github integration with Crowdin is divided into four parts 
+1. Connecting GitHub with Crowdin
+After signing up on Crowdin, open Project Settings, Integrations tab in Crowdin. Then you have two options. You can either use your GitHub Account or GitHub Enterprise Account integration.
+![log in crowdin](https://user-images.githubusercontent.com/24816990/78521536-10f3df00-77c2-11ea-84c0-cc5067fa47fc.PNG)
+
+![11](https://user-images.githubusercontent.com/24816990/78521605-4d273f80-77c2-11ea-988b-f0734f3de0dd.PNG)
+
+To integrate via your GitHub Account you can click Set Up Integration and then authorize the connection with Crowdin on the GitHub side:
+
+![12](https://user-images.githubusercontent.com/24816990/78521679-95def880-77c2-11ea-986f-d8975e9768e5.PNG)
+
+Authorize Crowdin application on your Github account
+
+![13](https://user-images.githubusercontent.com/24816990/78521943-99bf4a80-77c3-11ea-88aa-7ff8a146b09f.PNG)
+
+After integration, a pop-up dialogue would appear on your Project Settings, Integrations tab in Crowdin. In the newly appeared pop-up, continue the process of integration setup selecting necessary repository and branches that should be translated.
+
+It is recommended to switch the duplicated strings handling to the Show (Recommended for versions) setting, so equal strings will be hidden across the branches.
+
+#### Service Branches
+
+When translations are finished and your languages are ready to go live, Crowdin sends pull request with translations to your version control system. For every branch that is under localization, Crowdin creates additional service branch with translations. We do not commit directly to the master branch so you can verify translations first.
+
+By default, l10n_ is added to the created service branch name. If necessary it can be easily changed.
+
+
+
+
+
+
+
+
+
 
 
 
