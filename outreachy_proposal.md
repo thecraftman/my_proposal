@@ -140,10 +140,11 @@ Technologies
 | August 26 - August 31 | Submit final work report                                                             |
 
 
-### About me
+## About me
+
 I am Ore-aruwaji Tola currently in my final year studying Electrical & Information Engineering.  I am a  staunch advocate of Open source technologies. I have been contributing to the CHAOSS D&I Badging project for over 2 months. I have experience in AWS, Devops, python and Linux. 
 
-#### Contributions to the CHAOSS D&I Badging program
+### Contributions to the CHAOSS D&I Badging program
 
 - https://github.com/badging/diversity-and-inclusion/pull/2
 - https://github.com/badging/meta/issues/6
@@ -151,7 +152,7 @@ I am Ore-aruwaji Tola currently in my final year studying Electrical & Informati
 - https://github.com/thecraftman/CHAOSS-microtasks
 - https://github.com/thecraftman/CHAOSS-microtasks/blob/master/Draft_PR_Event_Badge.md
 
-#### Contributions to Open Source
+### Contributions to Open Source
 
 - https://github.com/thecraftman/NAT-Gateway
 - https://github.com/thecraftman/Python-REST-APIs
