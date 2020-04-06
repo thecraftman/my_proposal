@@ -42,9 +42,9 @@ Identify and localize contents for translation written in the markdown format in
 
 ### Deliverable 2:  Integrate the workflow using Crowdin
 
-After the first deliverable, the workflow needs to be automated using Crowdin. Crowdin is a translation and localization management platform that will integrate the development processes of badging from the repository  into deployable translations on github that will be ready for publication. (https://crowdin.com/features) 
+After the first deliverable, the workflow needs to be automated using Crowdin. Crowdin is a translation and localization management platform that will integrate the development processes of badging from the repository  into deployable translations on github that will be ready for publication (https://crowdin.com/features).
 
-This automation keeps the source content up to date for translating, and previously-translated content is returned automatically. (https://crowdin.com/teams/engineering)
+This automation keeps the source content "up to date for translating […], and previously-translated content is returned automatically" (https://crowdin.com/teams/engineering).
 
 Deliverable 3: Document/Scale more repositories 
 
@@ -193,7 +193,6 @@ I am very much interested in CHAOSS because i really want to make an impact with
 I will be available full time, 40 hours a week. I will be in contact with the mentors if there are any changes that will take place.  I plan to communicate with the mentors through Zoom calls and Emails.  
 
 ### For more information, send an email to temitopetola@gmail.com
-
 
 
 
