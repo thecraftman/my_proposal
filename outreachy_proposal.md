@@ -130,8 +130,11 @@ To add a pattern for branch names, follow these steps:
 
 - In the Branches to Sync Automatically field, use wildcard selectors such as '*', '?', '[set]', '' and others to identify the necessary branches.
 - Click Save.
+
   
 ![15](https://user-images.githubusercontent.com/24816990/78522251-ad1ee580-77c4-11ea-8f55-cc8a672a81b9.PNG)
+
+
 
 Selecting Content for Synchronization
 To get the integration working, you have to specify which source files should be translated and how Crowdin should structure translated files in your repository. In case, you see a red icon with an exclamatory mark next to the service branch name, this means that you didn't choose content for synchronization.
