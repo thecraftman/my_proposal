@@ -70,5 +70,10 @@ To achieve this workflow;
    - Personal plans
 ![crowdin pricing 1](https://user-images.githubusercontent.com/24816990/78518885-958e2f80-77b9-11ea-8ae0-75e4e5cc9138.PNG)
 
+- Organization Plans
+  
+  ![crowdin pricing 2](https://user-images.githubusercontent.com/24816990/78519105-2fee7300-77ba-11ea-9ce8-4953ba600922.PNG)
+
+
 
 
