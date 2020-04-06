@@ -1,8 +1,8 @@
 
-Ore-Aruwaji Oloruntola
-temitopetola@gmail.com
-Port-harcourt , Rivers state, Nigeria
-Timezone: Nigeria Standard Time WAT (UTC +1)
+# Ore-Aruwaji Oloruntola
+# temitopetola@gmail.com
+# Port-harcourt , Rivers state, Nigeria
+# Timezone: Nigeria Standard Time WAT (UTC +1)
 
 
 # Build Workflow Process for CHAOSS Diversity & Inclusion Badging
