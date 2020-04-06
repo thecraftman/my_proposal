@@ -54,29 +54,18 @@ The documentation will have a summary of the guidelines and methods involved for
 
 ## Expected results 
 
-Part one
+After the integration of the workflow; 
 
-To achieve this workflow;
-
-1. Crowdin pricing; The pricing for Crowdin can be classified into 
-   - Personal plans (https://crowdin.com/pricing#annual)
-![crowdin pricing 1](https://user-images.githubusercontent.com/24816990/78518885-958e2f80-77b9-11ea-8ae0-75e4e5cc9138.PNG)
-
-- Organization Plans
-  
-  ![crowdin pricing 2](https://user-images.githubusercontent.com/24816990/78519105-2fee7300-77ba-11ea-9ce8-4953ba600922.PNG)
-  
-For applicants, the micro personal plan is feasible. 
-
-2.  Translation status and project activity
-This will enable translators,reviewers, maintainers and proofreaders to become more efficient in providing better translations.  
+1.  Translation status and project activity 
+The implementation of this will enable translators,reviewers, maintainers and proofreaders to become more efficient in providing better translations.  
 Also, through voting, the best translation is chosen collaboratively. 
 
-3. Budget planning
-This would enable applicants to manage resources effectively, they can also collaborate with other applicants to avoid excessive budgeting. 
+2.  Comments and Issues
+Maintainers, reviewers will be able to ask questions, this will be in the form of a Pull request template. comments on the file/repository will be made on  CHAOSS Badging. They will also get feedback based on each activity, and request for more context if need be.
 
-4.  Comments and Issues
-Maintainers, reviewers will be able to ask questions, this will be in form of a Pull request comment on the file/repository on CHAOSS Badging. They will also get feedback based on each activity and request for more context if need be.  
+3.  Multilingual source texts
+Accessibility of the badging source texts will be made available in different languages.
+
 
 ## Approach
 
@@ -139,4 +128,4 @@ I am very much interested in CHAOSS because i really want to make an impact with
 ### Availability 
 I will be available full time, 40 hours a week. I will be in contact with the mentors if there are any changes that will take place.  I plan to communicate with the mentors through Zoom calls and Emails.  
 
-### For more information, send an email to temitopetola@gmail.com
+### For more information, please send an email to temitopetola@gmail.com
