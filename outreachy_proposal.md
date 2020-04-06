@@ -105,7 +105,7 @@ The platform that is currently used for CHAOSS Badging is github. Integration wi
 - Platform: Github
 - Markup: Markdown for writing documentation 
      
-
+## Timeline
 
 | Period                | Task                                                                                 |
 | --------------------- | ------------------------------------------------------------------------------------ |
