@@ -72,7 +72,7 @@ Accessibility of the badging source texts will be made available in different la
 Workflow Automation using Crowdin & Github 
 (https://support.crowdin.com/github-integration/#connecting-github-with-crowdin)
 
-#### The platform that is currently used for CHAOSS Badging is github. Integration with GitHub makes source and translation files synchronized with the GitHub repository and Crowdin translation project. All translated and approved files will be automatically pushed as a pull request to the master branch in GitHub repository.
+The platform that is currently used for CHAOSS Badging is github. Integration with GitHub makes source and translation files synchronized with the GitHub repository and Crowdin translation project, where "translated and approved files will be automatically pushed as a pull request" back to GitHub (https://support.crowdin.com/github-integration/).
 
 ### Github integration with Crowdin is divided into four parts 
 
@@ -163,4 +163,4 @@ I am very much interested in CHAOSS because i really want to make an impact with
 ### Availability 
 I will be available full time, 40 hours a week. I will be in contact with the mentors if there are any changes that will take place.  I plan to communicate with the mentors through Zoom calls and Emails.  
 
-### For more information, please send an email to temitopetola@gmail.com
+For more information, please email temitopetola@gmail.com.
