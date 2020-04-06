@@ -27,7 +27,7 @@ A lot of texts, documentation are written in languages which people don't unders
 
 ## Current status of the project 
 
-The CHAOSS Badging project is made up of five repositories, a submission template for badging, Documentation about the Badging project, issues based on D&I badging, source texts `.md` about the event and project guidelines.  [https://github.com/badging](https://github.com/badging)
+The CHAOSS Badging project is made up of five repositories, a submission template for badging, Documentation about the Badging project, issues based on D&I badging, source texts `.md` about the event and project guidelines (https://github.com/badging).
 
 ## Goal 
 Build a Collaborative translation process
@@ -193,7 +193,6 @@ I am very much interested in CHAOSS because i really want to make an impact with
 I will be available full time, 40 hours a week. I will be in contact with the mentors if there are any changes that will take place.  I plan to communicate with the mentors through Zoom calls and Emails.  
 
 ### For more information, send an email to temitopetola@gmail.com
-
 
 
 
