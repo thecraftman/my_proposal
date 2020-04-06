@@ -83,7 +83,9 @@ Also, through voting, the best translation is chosen collaboratively.
 3. Budget planning
 This would enable applicants to manage resources effectively, they can also collaborate with other applicants to avoid excessive budgeting. 
 
-4. 
+4.  Comments and Issues
+Maintainers, reviewers will be able to ask questions, this will be in form of a Pull request comment on the file/repository on CHAOSS Badging. They will also get feedback based on each activity and request for more context if need be.  
+
 
 
 
