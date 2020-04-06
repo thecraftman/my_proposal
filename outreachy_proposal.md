@@ -72,9 +72,9 @@ Accessibility of the badging source texts will be made available in different la
 Workflow Automation using Crowdin & Github 
 (https://support.crowdin.com/github-integration/#connecting-github-with-crowdin)
 
-The platform that is currently used for CHAOSS Badging is github. Integration with GitHub makes source and translation files synchronized with the GitHub repository and Crowdin translation project. All translated and approved files will be automatically pushed as a pull request to the master branch in GitHub repository.
+#### The platform that is currently used for CHAOSS Badging is github. Integration with GitHub makes source and translation files synchronized with the GitHub repository and Crowdin translation project. All translated and approved files will be automatically pushed as a pull request to the master branch in GitHub repository.
 
-Github integration with Crowdin is divided into four parts 
+### Github integration with Crowdin is divided into four parts 
 
 1. Connecting GitHub with Crowdin
 Github accounts will be linked with Crowdin, your accounts can be a personal account or an Enterprise account for integration.
@@ -85,13 +85,15 @@ For every branch that is under localization, Crowdin creates additional service 
 
 
 Branches to Sync Automatically
- Features will be added from branches  to Crowdin automatically, creating a pattern for the branch names. The branch name will follow a certain pattern that  will be automatically added to Crowdin.
-For example, you add a pattern *feature in the GitHub integration. 
+ - Features will be added from branches  to Crowdin automatically, creating a pattern for the branch names. The branch name will follow a certain pattern that  will be automatically added to Crowdin.
+ 
+- For example, you add a pattern *feature in the GitHub integration. 
 In this case, the future branches that contain this word at the end of the title will be added to the repo. 
 (“https://support.crowdin.com/github-integration/#connecting-github-with-crowdin”)
 
 2. Selecting Content for Synchronization
 Specification of source files needs to be translated before the integration can work. Crowdin will provide a framework for translated files in the repository. 
+
 I will create a configuration file using the yaml format, this would be stored in the Github repository with each separate branch that needs to be translated. 
 Through this synchronization, Crowdin will be able to know what files exactly that should be sent for translations.
 
