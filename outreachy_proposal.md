@@ -40,7 +40,7 @@ This process will handle both the projects and events documentation translation 
 
 Identify and localize contents for translation written in the markdown format in a single repository on Github, this will enable an ideal structure that will be implemented. This model will give the maintainers, reviewers and applicants a way to discuss which contents, documentation needs to be translated, ask questions about the D&I badging translation, and also request more content. 
 
-Deliverable 2:  Integrate the workflow using Crowdin
+### Deliverable 2:  Integrate the workflow using Crowdin
 
 After the first deliverable, the workflow needs to be automated using Crowdin. Crowdin is a translation and localization management platform that will integrate the development processes of badging from the repository  into deployable translations on github that will be ready for publication. (https://crowdin.com/features) 
 
@@ -193,7 +193,6 @@ I am very much interested in CHAOSS because i really want to make an impact with
 I will be available full time, 40 hours a week. I will be in contact with the mentors if there are any changes that will take place.  I plan to communicate with the mentors through Zoom calls and Emails.  
 
 ### For more information, send an email to temitopetola@gmail.com
-
 
 
 
