@@ -12,18 +12,6 @@
 >
 > [GitHub](https://github.com/thecraftman) | [LinkedIn](https://www.linkedin.com/in/oloruntola-ore-aruwaji-5a332314a/)
 
-```
-Personal Details and contact Information
-GitHub username: [thecraftman](https://github.com/thecraftman)
-Email: temitopetola@gmail.com
-University: Landmark University Omu-aran, Kwara, Nigeria.
-Time-zone: Nigeria WAT (UTC +1)
-Address: 2 temple Ejekwu close, Artillery, Port-harcourt, Nigeria
-IRC nick: temitopetola
-[Linkedin](https://www.linkedin.com/in/oloruntola-ore-aruwaji-5a332314a/)
-```
-
-
 ## Synopsis
 
 This project aims to make the process for obtaining badges for events & projects multilingual. 
@@ -205,7 +193,6 @@ I am very much interested in CHAOSS because i really want to make an impact with
 I will be available full time, 40 hours a week. I will be in contact with the mentors if there are any changes that will take place.  I plan to communicate with the mentors through Zoom calls and Emails.  
 
 ### For more information, send an email to temitopetola@gmail.com
-
 
 
 
