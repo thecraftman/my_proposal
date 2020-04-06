@@ -75,6 +75,7 @@ To achieve this workflow;
   ![crowdin pricing 2](https://user-images.githubusercontent.com/24816990/78519105-2fee7300-77ba-11ea-9ce8-4953ba600922.PNG)
   
 For applicants, the micro personal plan is feasible. 
+
 2.  Translation status and project activity
 This will enable translators,reviewers, maintainers and proofreaders to become more efficient in providing better translations.  
 Also, through voting, the best translation is chosen collaboratively. 
