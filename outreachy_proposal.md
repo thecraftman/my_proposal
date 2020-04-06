@@ -116,6 +116,49 @@ When translations are finished and your languages are ready to go live, Crowdin 
 
 By default, l10n_ is added to the created service branch name. If necessary it can be easily changed.
 
+#### Branches to Sync Automatically
+When you set up the integration you select existing repository branches that should be added to the Crowdin project. To add future branches from GitHub to Crowdin automatically, create a pattern for the branch names. If a branch name follows a certain pattern, it will be automatically added to Crowdin.
+
+For example, you add a pattern *feature in the GitHub integration settings. In this case, the future branches that contain this word at the end of the title will be added to the project.
+
+To add a pattern for branch names, follow these steps:
+
+- Click Edit in the GitHub integration section.
+- In the pop-up dialogue click Show Advanced Settings in the bottom left corner.
+
+![14](https://user-images.githubusercontent.com/24816990/78522194-806ace00-77c4-11ea-9a85-bb7c6c501e3c.PNG)
+
+- In the Branches to Sync Automatically field, use wildcard selectors such as '*', '?', '[set]', '' and others to identify the necessary branches.
+- Click Save.
+  
+![15](https://user-images.githubusercontent.com/24816990/78522251-ad1ee580-77c4-11ea-8f55-cc8a672a81b9.PNG)
+
+Selecting Content for Synchronization
+To get the integration working, you have to specify which source files should be translated and how Crowdin should structure translated files in your repository. In case, you see a red icon with an exclamatory mark next to the service branch name, this means that you didn't choose content for synchronization.
+
+We will configure it manually by creating a configuration file 
+Creating Configuration File
+Configuration file crowdin.yaml should be stored in the GitHub repository along with each separate branch that you want to translate, so Crowdin knows what files exactly should be sent for translations.
+It should have the same structure as required for Synchronization Tool
+
+Synchronization Schedule
+To configure the synchronization schedule – click Edit and choose the update interval.
+
+![16](https://user-images.githubusercontent.com/24816990/78523008-451dce80-77c7-11ea-913b-0c1d990b41d9.PNG)
+
+Checking the Status of Synchronization
+Once the integration is set up, all the related information is stored in the same place – Project Settings, Integrations tab, GitHub section.
+By default, synchronization is processed every 10 minutes automatically. If there's a need to launch it instantly – click Sync Now.
+
+![17](https://user-images.githubusercontent.com/24816990/78523078-831af280-77c7-11ea-9b2e-6a039b3931ea.PNG)
+
+Technologies 
+- Languages: YAML 
+- Framework: Crowdin
+- Platform: Github
+- Markup: Markdown for writing documentation 
+  
+
 
 
 
