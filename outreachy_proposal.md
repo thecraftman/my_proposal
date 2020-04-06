@@ -160,9 +160,44 @@ Technologies
 - Framework: Crowdin
 - Platform: Github
 - Markup: Markdown for writing documentation 
-  
+     
 
 
+|Period | Task  |
+|-------| ------------------------------------|
+|        After submission [ April 7 -  May 8]          |-  More contributions to CHAOSS Badging, - Gather more contents about Badging 
+|       [MAY 8 - MAY 31]         | - Discuss with mentors on any changes or feedback -Gather more content about Crowdin workflow - Create framework for guidelines 
+|       [JUNE 1 - JUNE 14]        | -Meet mentors for feedback and act accordingly -Gather repositories for translation -Get more content, guidelines and procedures that needs to be translated 
+|      [ JUNE 15 - JUNE 30]       | -Meet mentors for feedback and make changes -Gather more knowledge about multilingual languages that will be implemented
+|        [JULY 1 - JULY 5]       |  Phase one Evaluation
+|        [JULY 6 - JULY 28]     | Automate workflow on Github -Implement translators -Integrate the Crowdin workflow on github processes -Synchronize schedule configuration -Gather feedback from mentors and act accordingly
+|         [JULY 29 - JULY 31]       | - Phase two evaluation
+|         [AUGUST 1 - AUGUST 16]        | - Start Documenting the workflow -Add/scale more repositories -Fix any issues that might come up 
+|           [AUGUST 17 - AUGUST 25]     | Wrap up Documentation -Ask mentors for feedback
+|           [ AUGUST 26 - AUGUST 31]     | Submit final work report
+
+
+### About me
+I am Ore-aruwaji Tola currently in my final year studying Electrical & Information Engineering.  I am a  staunch advocate of Open source technologies. I have been contributing to the CHAOSS D&I Badging project for over 2 months. I have experience in AWS, Devops, python and Linux. 
+Contributions to CHAOSS D&I Badging
+ https://github.com/badging/diversity-and-inclusion/pull/2
+https://github.com/badging/meta/issues/6
+https://github.com/thecraftman/CHAOSS-microtasks/blob/master/Microtasks_solution.md
+https://github.com/thecraftman/CHAOSS-microtasks
+https://github.com/thecraftman/CHAOSS-microtasks/blob/master/Draft_PR_Event_Badge.md
+
+My other Open Source contributions
+https://github.com/thecraftman/NAT-Gateway
+https://github.com/thecraftman/Python-REST-APIs
+https://github.com/thecraftman/Tic-Tac-Toe---Python-
+
+### Why CHAOSS?
+I am very much interested in CHAOSS because i really want to make an impact with an open source community and CHAOSS was my best choice. I want to use my skills to develop methodologies, guidelines about how Badging can be accessible to all participants for their projects and events.  CHAOSS D&I mentors have really been helpful making me understand how badging works and the methods involved. It is an honour to work with them.
+
+### Availability 
+I will be available full time, 40 hours a week. I will be in contact with the mentors if there are any changes that will take place.  I plan to communicate with the mentors through Zoom calls and Emails.  
+
+### For more information, send an email to temitopetola@gmail.com
 
 
 
