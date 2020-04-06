@@ -32,7 +32,7 @@ The mentors for my project are [Matt snell](https://github.com/Nebrethar), [Matt
 
 ## Benefits to the community 
 
-A lot of texts, documentation are written in languages which people don't understand. They find it difficult to communicate the problem they are having because they don't understand the native language in which it was implemented. This project will automate source content updates for translation into different languages thereby obtaining your badges in several languages at once. 
+A lot of texts, documentation are written in languages which people don't understand. They find it difficult to communicate the problem they are having because they don't understand the native language in which it was implemented. This project will "automate source content updates for translation" into different languages (https://crowdin.com/features). This would afford applicants translated documentation to better assist them navigate the process. It would also make it possible to render viewer-based localizations for badges.
 
 ## Current status of the project 
 
@@ -202,7 +202,6 @@ I am very much interested in CHAOSS because i really want to make an impact with
 I will be available full time, 40 hours a week. I will be in contact with the mentors if there are any changes that will take place.  I plan to communicate with the mentors through Zoom calls and Emails.  
 
 ### For more information, send an email to temitopetola@gmail.com
-
 
 
 
