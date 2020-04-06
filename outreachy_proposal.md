@@ -9,6 +9,7 @@
 
 ## Outreachy project Proposal for CHAOSS
 
+```
 Personal Details and contact Information
 GitHub username: [thecraftman](https://github.com/thecraftman)
 Email: temitopetola@gmail.com
@@ -17,3 +18,4 @@ Time-zone: Nigeria WAT (UTC +1)
 Address: 2 temple Ejekwu close, Artillery, Port-harcourt, Nigeria
 IRC nick: temitopetola
 [Linkedin](https://www.linkedin.com/in/oloruntola-ore-aruwaji-5a332314a/)
+```
