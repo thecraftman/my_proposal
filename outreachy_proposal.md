@@ -94,12 +94,12 @@ The platform that is currently used for CHAOSS Badging is github. Integration wi
    I will create a configuration file using the yaml format, this would be stored in the Github repository with each separate branch that needs to be translated. Through this synchronization, Crowdin will be able to know what files exactly that should be sent for translations.
 
 3. Synchronization Schedule
-After synchronizing the content, all related source texts are stored in the same place in the github section; a time interval is needed so that the synchronization can be done instantly. 
+
+   After synchronizing the content, all related source texts are stored in the same place in the github section; a time interval is needed so that the synchronization can be done instantly. 
 
 4. Checking the Status of Synchronization
-Once the integration is set up, all the related source texts are stored in the same place – Projects, Integrations, GitHub section. 
 
-
+   Once the integration is set up, all the related source texts are stored in the same place – Projects, Integrations, GitHub section. 
 
 Technologies 
 - Languages: YAML 
