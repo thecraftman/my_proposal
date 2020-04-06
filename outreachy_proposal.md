@@ -90,18 +90,30 @@ Technologies
      
 
 
-|Period | Task  |
-|-------| ------------------------------------|
-|        After submission [ April 7 -  May 8]          |-  More contributions to CHAOSS Badging, - Gather more contents about Badging 
-|       [MAY 8 - MAY 31]         | - Discuss with mentors on any changes or feedback -Gather more content about Crowdin workflow - Create framework for guidelines 
-|       [JUNE 1 - JUNE 14]        | -Meet mentors for feedback and act accordingly -Gather repositories for translation -Get more content, guidelines and procedures that needs to be translated 
-|      [ JUNE 15 - JUNE 30]       | -Meet mentors for feedback and make changes -Gather more knowledge about multilingual languages that will be implemented
-|        [JULY 1 - JULY 5]       |  Phase one Evaluation
-|        [JULY 6 - JULY 28]     | Automate workflow on Github -Implement translators -Integrate the Crowdin workflow on github processes -Synchronize schedule configuration -Gather feedback from mentors and act accordingly
-|         [JULY 29 - JULY 31]       | - Phase two evaluation
-|         [AUGUST 1 - AUGUST 16]        | - Start Documenting the workflow -Add/scale more repositories -Fix any issues that might come up 
-|           [AUGUST 17 - AUGUST 25]     | Wrap up Documentation -Ask mentors for feedback
-|           [ AUGUST 26 - AUGUST 31]     | Submit final work report
+| Period                | Task                                                                                 |
+| --------------------- | ------------------------------------------------------------------------------------ |
+| April 7 - May 8       | More contributions to CHAOSS Badging                                                 |
+|                       | Gather more contents about Badging                                                   |
+| May 8 - May 31        | Discuss with mentors on any changes or feedback                                      |
+|                       | Gather more content about Crowdin workflow                                           |
+|                       | Create framework for guidelines                                                      |
+| June 1 - June 14      | Meet mentors for feedback and act accordingly                                        |
+|                       | Gather repositories for translation                                                  |
+|                       | Get more content, guidelines and procedures that needs to be translated              |
+| June 15 - June 30     | Meet mentors for feedback and make changes                                           |
+|                       | Gather more knowledge about multilingual languages that will be implemented          |
+| July 1 - July 5       | Phase one Evaluation                                                                 |
+| July 6 - July 28      | Automate workflow on Github                                                          |
+|                       | Implement translators                                                                |
+|                       | Integrate the Crowdin workflow on github processes                                   |
+|                       | Synchronize schedule configuration -Gather feedback from mentors and act accordingly |
+| July 29 - July 31     | Phase two evaluation                                                                 |
+| August 1 - August 16  | Start Documenting the workflow                                                       |
+|                       | Add/scale more repositories                                                          |
+|                       | Fix any issues that might come up                                                    |
+| August 17 - August 25 | Wrap up Documentation                                                                |
+|                       | Ask mentors for feedback                                                             |
+| August 26 - August 31 | Submit final work report                                                             |
 
 
 ### About me
