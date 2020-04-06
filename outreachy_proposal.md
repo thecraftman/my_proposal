@@ -58,6 +58,17 @@ This automation keeps the source content up to date for translating, and previou
 Deliverable 3: Document/Scale more repositories 
 
 After deliverable two, it is important to scale more repositories that will have multilingual documentation for a seamless user experience, this helps applicants to get their project/event badge in several languages at once especially in their own specified language. 
-The documentation will have a summary of the guidelines and methods involved for applicants and reviewers. 
+The documentation will have a summary of the guidelines and methods involved for applicants and reviewers.
+
+## Expected results 
+
+Part one
+
+To achieve this workflow;
+
+1. Crowdin pricing; The pricing for Crowdin can be classified into 
+   - Personal plans
+![crowdin pricing 1](https://user-images.githubusercontent.com/24816990/78518885-958e2f80-77b9-11ea-8ae0-75e4e5cc9138.PNG)
+
 
 
