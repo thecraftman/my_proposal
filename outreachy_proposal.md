@@ -1,13 +1,9 @@
-<hgroup>
-
-# Outreachy Proposal:
-
-## Crowdsourcing Translation for CHAOSS Diversity & Inclusion Badging
-
-</hgroup>
+# Outreachy Proposal: Crowdsourcing Translation for CHAOSS Diversity & Inclusion Badging
 
 > Ore-Aruwaji Oloruntola
+>
 > Landmark University Omu-aran
+>
 > Kwara, Nigeria
 >
 > [GitHub](https://github.com/thecraftman) | [LinkedIn](https://www.linkedin.com/in/oloruntola-ore-aruwaji-5a332314a/)
