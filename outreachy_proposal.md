@@ -1,13 +1,16 @@
+<hgroup>
 
-### Ore-Aruwaji Oloruntola
-### temitopetola@gmail.com
-### Port-harcourt , Rivers state, Nigeria
-### Timezone: Nigeria Standard Time WAT (UTC +1)
+# Outreachy Proposal:
 
+## Crowdsourcing Translation for CHAOSS Diversity & Inclusion Badging
 
-# Build Workflow Process for CHAOSS Diversity & Inclusion Badging
+</hgroup>
 
-## Outreachy project Proposal for CHAOSS
+> Ore-Aruwaji Oloruntola
+> Landmark University Omu-aran
+> Kwara, Nigeria
+>
+> [GitHub](https://github.com/thecraftman) | [LinkedIn](https://www.linkedin.com/in/oloruntola-ore-aruwaji-5a332314a/)
 
 ```
 Personal Details and contact Information
@@ -202,7 +205,6 @@ I am very much interested in CHAOSS because i really want to make an impact with
 I will be available full time, 40 hours a week. I will be in contact with the mentors if there are any changes that will take place.  I plan to communicate with the mentors through Zoom calls and Emails.  
 
 ### For more information, send an email to temitopetola@gmail.com
-
 
 
 
