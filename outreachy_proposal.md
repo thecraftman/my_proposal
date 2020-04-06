@@ -32,7 +32,7 @@ The CHAOSS Badging project is made up of five repositories, a submission templat
 ## Goal 
 Build a Collaborative translation process
 
-This process will handle both the projects and events documentation translation based on the applicants choice from different regions, who are interested in obtaining D&I Badging. This process will validate the synchronization of source text and translated content to ensure flexibility with integrated tools. 
+This process will handle both the projects and events documentation translation based on the applicants choice from different regions, who are interested in obtaining D&I Badging. This process will validate "the synchronization of source text and translated content to ensure" flexibility with integrated tools (https://crowdin.com/teams/engineering).
 
 ## Deliverables 
 
@@ -193,7 +193,6 @@ I am very much interested in CHAOSS because i really want to make an impact with
 I will be available full time, 40 hours a week. I will be in contact with the mentors if there are any changes that will take place.  I plan to communicate with the mentors through Zoom calls and Emails.  
 
 ### For more information, send an email to temitopetola@gmail.com
-
 
 
 
