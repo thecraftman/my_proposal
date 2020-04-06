@@ -104,7 +104,6 @@ After synchronizing the content, all related source texts are stored in the same
 Once the integration is set up, all the related source texts are stored in the same place – Projects, Integrations, GitHub section. 
 
 
-<!-- This section needs to be redrafted -->
 
 Technologies 
 - Languages: YAML 
