@@ -46,7 +46,7 @@ After the first deliverable, the workflow needs to be automated using Crowdin. C
 
 This automation keeps the source content "up to date for translating […], and previously-translated content is returned automatically" (https://crowdin.com/teams/engineering).
 
-Deliverable 3: Document/Scale more repositories 
+### Deliverable 3: Document/Scale more repositories 
 
 After deliverable two, it is important to scale more repositories that will have multilingual documentation for a seamless user experience, this helps applicants to get their project/event badge in several languages at once especially in their own specified language. 
 The documentation will have a summary of the guidelines and methods involved for applicants and reviewers.
@@ -193,7 +193,6 @@ I am very much interested in CHAOSS because i really want to make an impact with
 I will be available full time, 40 hours a week. I will be in contact with the mentors if there are any changes that will take place.  I plan to communicate with the mentors through Zoom calls and Emails.  
 
 ### For more information, send an email to temitopetola@gmail.com
-
 
 
 
