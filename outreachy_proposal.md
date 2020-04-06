@@ -80,11 +80,8 @@ The platform that is currently used for CHAOSS Badging is github. Integration wi
 
    For every branch that is under localization, Crowdin creates additional service branches with translations. Commits will not go directly to the master branch, so that we can verify if it’s the right translation that happened.
 
-   - Features will be added from branches  to Crowdin automatically, creating a pattern for the branch names. The branch name will follow a certain pattern that  will be automatically added to Crowdin.
-
-   - For example, you add a pattern *feature in the GitHub integration. 
-
-
+   Features will be added from branches  to Crowdin automatically, creating a pattern for the branch names. The branch name will follow a certain pattern that  will be automatically added to Crowdin. For example, you add a pattern *feature in the GitHub integration.
+   
    In this case, the future branches that contain this word at the end of the title will be added to the repo (https://support.crowdin.com/github-integration/#connecting-github-with-crowdin).
 
 2. Selecting Content for Synchronization
