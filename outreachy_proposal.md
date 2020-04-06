@@ -67,12 +67,23 @@ Part one
 To achieve this workflow;
 
 1. Crowdin pricing; The pricing for Crowdin can be classified into 
-   - Personal plans
+   - Personal plans (https://crowdin.com/pricing#annual)
 ![crowdin pricing 1](https://user-images.githubusercontent.com/24816990/78518885-958e2f80-77b9-11ea-8ae0-75e4e5cc9138.PNG)
 
 - Organization Plans
   
   ![crowdin pricing 2](https://user-images.githubusercontent.com/24816990/78519105-2fee7300-77ba-11ea-9ce8-4953ba600922.PNG)
+  
+For applicants, the micro personal plan is feasible. 
+2.  Translation status and project activity
+This will enable translators,reviewers, maintainers and proofreaders to become more efficient in providing better translations.  
+Also, through voting, the best translation is chosen collaboratively. 
+
+3. Budget planning
+This would enable applicants to manage resources effectively, they can also collaborate with other applicants to avoid excessive budgeting. 
+
+4. 
+
 
 
 
