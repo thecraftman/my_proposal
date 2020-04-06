@@ -98,7 +98,8 @@ The platform that is currently used for CHAOSS Badging is github. Integration wi
 
    Once the integration is set up, all the related source texts are stored in the same place – Projects, Integrations, GitHub section. 
 
-Technologies 
+**Technologies:**
+
 - Languages: YAML 
 - Framework: Crowdin
 - Platform: Github
