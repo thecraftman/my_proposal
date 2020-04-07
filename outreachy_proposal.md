@@ -19,7 +19,7 @@ The mentors for my project are [Matt snell](https://github.com/Nebrethar), [Matt
 
 ## Benefits to the community 
 
-A lot of texts, documentation are written in languages which people don't understand. They find it difficult to communicate the problem they are having because they don't understand the native language in which it was implemented. This project will "automate source content updates for translation" into different languages (https://crowdin.com/features). This would afford applicants translated documentation to better assist them navigate the process. It would also make it possible to render viewer-based localizations for badges.
+A lot of texts, documentation are written in languages which applicants, contributors, reviewers don't understand. They find it difficult to communicate the problem they are having because they don't understand the native language in which it was implemented. This project will "automate source content updates for translation" into different languages (https://crowdin.com/features). This would afford applicants translated documentation to better assist them navigate the process. It would also make it possible to render viewer-based localizations for badges.
 
 ## Current status of the project 
 
