@@ -137,36 +137,6 @@ The platform that is currently used for CHAOSS Badging is github. Integration wi
 
 I am Ore-aruwaji Tola currently in my final year studying Electrical & Information Engineering.  I am a  staunch advocate of Open source technologies. I have been contributing to the CHAOSS D&I Badging project for over 2 months. I have experience in AWS, Devops, python and Linux. 
 
-| Unit                  | Description                                                                            |
-| --------------------- | ------------------------------------------------------------------------------------ |
-| Analytics             | The Analytics feature allows/lets users gain insights visually, run aggregations across all or a subset of events in a dataset and visualize the output.                                                                                          |
-|                       | For more information about analytics, refer to the [Analytics](/usage/analyze) documentation. |                                                  |
-| May 8 - May 31        | Discuss with mentors on any changes or feedback                                      |
-|                       | Gather more content about Crowdin workflow                                           |
-|                       | Create framework for guidelines                                                      |
-| June 1 - June 14      | Meet mentors for feedback and act accordingly                                        |
-|                       | Gather repositories for translation                                                  |
-|                       | Get more content, guidelines and procedures that needs to be translated              |
-| June 15 - June 30     | Meet mentors for feedback and make changes                                           |
-|                       | Gather more knowledge about multilingual languages that will be implemented          |
-| July 1 - July 5       | Phase one Evaluation                                                                 |
-| July 6 - July 28      | Automate workflow on Github                                                          |
-|                       | Implement translators                                                                |
-|                       | Integrate the Crowdin workflow on github processes                                   |
-|                       | Synchronize schedule configuration -Gather feedback from mentors and act accordingly |
-| July 29 - July 31     | Phase two evaluation                                                                 |
-| August 1 - August 16  | Start Documenting the workflow                                                       |
-|                       | Add/scale more repositories                                                          |
-|                       | Fix any issues that might come up                                                    |
-| August 17 - August 25 | Wrap up Documentation                                                                |
-|                       | Ask mentors for feedback                                                             |
-| August 26 - August 31 | Submit final work report                                                             |
-
-
-
-
-
-
 ### Contributions to the CHAOSS D&I Badging program
 
 - https://github.com/badging/diversity-and-inclusion/pull/2
